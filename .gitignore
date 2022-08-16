@@ -1,9 +1,9 @@
 /com.qq.weixin.deepin*
-/deepin-wine-wechat-*.pkg*
+/deepin-wine-wecom-*.pkg*
 /libldap*
 /libsasl2*
 /pkg/
 /src/
-/WeChat*
+/WeCom*
 /reg_tmp_fixed/
 /reg_tmp/
